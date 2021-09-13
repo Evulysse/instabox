@@ -1,0 +1,93 @@
+.parent {
+    
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+}
+
+.header {
+
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    
+
+}
+
+.categories {
+    background-color: whitesmoke;
+    padding: 10px;
+    margin: 10px;
+}
+
+.icon {
+    
+    padding: 10px;
+    margin: 10px;
+    flex: 1;
+}
+
+.information {
+    
+    flex-direction: column;
+    padding: 0px;
+    margin: 10px;
+    flex: 3;
+    display: flex;
+    
+    
+}
+
+.information-row {
+
+    display: flex;
+    padding: 0px;
+    margin-left: 60px;
+    .button1 {background-color: white;
+    color: black;
+    border:2px; solid #4CAF50;} 
+    
+   
+}
+
+.information-row1 {
+    display: flex;
+    margin-left: 10px;
+    margin:15px;
+    margin-right: 370px;
+    padding: 0px;
+    justify-content: space-evenly;
+    
+
+}
+
+.information-row2 {
+    display: flex;
+   margin-left: 60px;
+   margin-top:15px;
+   padding: 0px;
+   font-weight: bolder;
+
+}
+
+.information-row3 {
+    display: flex;
+    margin-left: 60px;
+    padding:0px;
+
+}
+
+.information-row4 {
+    display: flex;
+    margin-left: 60px;
+    padding:0px;
+    color: teal;
+}
+
+.information-row5 {
+display: flex;
+margin-left: 60px;
+padding:0px
+font-size: small;
+}
